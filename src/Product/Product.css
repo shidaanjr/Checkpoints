@@ -1,0 +1,37 @@
+.picture {
+
+    width : 130px;
+    height: 110px;
+    margin : 0px 10px 0px 10px;
+  }
+  
+  .product{
+  
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(158, 158, 158);
+    border-top: 1px solid rgb(158, 158, 158);
+    padding : 10px 10px 10px 10px;
+  
+  }
+  .Quantity {
+  
+    width : 40px;
+    height : 20px;
+    margin : 0px 10px 0px 10px;
+  }
+  
+  
+  .info{
+  
+    display : flex;
+  
+  }
+  
+  .fas.fa-plus, .fas.fa-minus {
+  
+    font-size:  13px;
+    color : blue;
+  }
+  
